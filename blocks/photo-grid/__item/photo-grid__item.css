@@ -1,0 +1,13 @@
+.photo-grid__item {
+    max-width: 100%;
+    min-height: 100%;
+    min-width: 288px;
+    object-fit: cover;
+    object-position: center;
+    background-size: cover;
+   
+}
+@media screen and (max-width: 767px) {
+    .photo-grid__item {
+        width: 100%;
+    }
