@@ -1,13 +1,13 @@
 .header__logo {
-    max-width: 100%;
-    min-height: 100%;
-    object-fit: cover;
-    background-size: cover;
-    }
+  max-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  background-size: cover;
+}
 
-    @media screen and (max-width: 767px) {
-        .header__logo {
-            max-width: 142px;
-            min-height: 42px;
-        } 
-    }
+@media screen and (max-width: 767px) {
+  .header__logo {
+    max-width: 142px;
+    min-height: 42px;
+  }
+}
